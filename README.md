@@ -4,6 +4,12 @@
 
 This is a simple quiz app built using React Native, designed to test your knowledge on various topics. It features multiple-choice questions with a countdown timer for each question, adding a challenge element to the quiz. Users can answer questions quickly to earn more points.
 
+## Screenshots
+
+![Untitled design](https://github.com/fahad0samara/react-native-quiz-app/assets/90055525/a69a2add-3d34-4b6e-b0c9-da292cac8580)
+
+
+
 ## Features
 
 - Multiple-choice questions: Choose the correct answer from a set of options.
@@ -50,7 +56,6 @@ This is a simple quiz app built using React Native, designed to test your knowle
    ```
    
 
-## Screenshots
 
 
 
